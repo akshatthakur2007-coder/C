@@ -1,2 +1,0 @@
-# C
-First C Program
